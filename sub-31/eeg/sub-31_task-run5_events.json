@@ -1,0 +1,207 @@
+{
+	"257":
+	{
+		"LongName":	"artifact:EOG",
+		"Description": "artifact:EOG (blinks, fast, large amplitude)"
+	},
+	"259":
+	{
+		"LongName":	"artifact:EMG/Muscle",
+		"Description": "artifact:EMG/Muscle"
+	},
+	"263":
+	{
+		"LongName":	"artifact:50/60 Hz mains interference",
+		"Description": "artifact:50/60 Hz mains interference"
+	},
+	"786":
+	{
+		"LongName":	"Cross on screen",
+		"Description": "Fixation cross displayed on screen"
+	},
+	"788":
+	{
+		"LongName":	"Music played",
+		"Description": "Start of music play"
+	},
+	"301-360":
+	{
+		"LongName":	"Music stimuli",
+		"Description": "The piece of music that was played. To identify which .mp3 file was played to the participants subtract 300 from this code and append .mp3, for example for code '305' the file '005.mp3' was played to the participant. The corresponding mp3 files can be downloaded from https://www.jyu.fi/hytk/fi/laitokset/mutku/en/research/projects2/past-projects/coe/materials/emotion/soundtracks/Index"
+	},
+	"800":
+	{
+		"LongName":	"Question 01",
+		"Description": "Question 01 presented to user (The music made me feel pleasent)"
+	},
+	"801":
+	{
+		"LongName":	"Question 02",
+		"Description": "Question 02 presented to user (The music made me feel energetic)"
+	},
+	"802":
+	{
+		"LongName":	"Question 03",
+		"Description": "Question 03 presented to user (The music made me feel tense)"
+	},
+	"803":
+	{
+		"LongName":	"Question 04",
+		"Description": "Question 04 presented to user (The music made me feel angry)"
+	},
+	"804":
+	{
+		"LongName":	"Question 05",
+		"Description": "Question 05 presented to user (The music made me feel afraid)"
+	},
+	"805":
+	{
+		"LongName":	"Question 06",
+		"Description": "Question 06 presented to user (The music made me feel happy)"
+	},
+	"806":
+	{
+		"LongName":	"Question 07",
+		"Description": "Question 07 presented to user (The music made me feel sad)"
+	},
+	"807":
+	{
+		"LongName":	"Question 08",
+		"Description": "Question 08 presented to user (The music made me feel tender)"
+	},
+	"901":
+	{
+		"LongName": "Answer 01",
+		"Description": "The question was answered with a response of 1 (strongly disagree)"
+	},
+	"902":
+	{
+		"LongName": "Answer 02",
+		"Description": "The question was answered with a response of 1 (somewhat disagree)"
+	},
+	"903":
+	{
+		"LongName": "Answer 03",
+		"Description": "The question was answered with a response of 1 (disagree)"
+	},
+	"904":
+	{
+		"LongName": "Answer 04",
+		"Description": "The question was answered with a response of 1 (slightly disagree)"
+	},
+	"905":
+	{
+		"LongName": "Answer 05",
+		"Description": "The question was answered with a response of 1 (neither agree nor disagree)"
+	},
+	"906":
+	{
+		"LongName": "Answer 06",
+		"Description": "The question was answered with a response of 1 (slightly agree)"
+	},
+	"907":
+	{
+		"LongName": "Answer 07",
+		"Description": "The question was answered with a response of 1 (agree)"
+	},
+	"908":
+	{
+		"LongName": "Answer 08",
+		"Description": "The question was answered with a response of 1 (somewhat agree)"
+	},
+	"909":
+	{
+		"LongName": "Answer 09",
+		"Description": "The question was answered with a response of 1 (strongly agree)"
+	},
+	"833":
+	{
+		"LongName":	"Response 01",
+		"Description": "Response 01 - The user selected 01 as their response"
+	},
+	"834":
+	{
+		"LongName":	"Response 02",
+		"Description": "Response 02 - The user selected 02 as their response"
+	},
+	"835":
+	{
+		"LongName":	"Response 03",
+		"Description": "Response 03 - The user selected 03 as their response"
+	},
+	"836":
+	{
+		"LongName":	"Response 04",
+		"Description": "Response 04 - The user selected 04 as their response"
+	},
+	"837":
+	{
+		"LongName":	"Response 05",
+		"Description": "Response 05 - The user selected 05 as their response"
+	},
+	"838":
+	{
+		"LongName":	"Response 06",
+		"Description": "Response 06 - The user selected 06 as their response"
+	},
+	"839":
+	{
+		"LongName":	"Response 07",
+		"Description": "Response 07 - The user selected 07 as their response"
+	},
+	"840":
+	{
+		"LongName":	"Response 08",
+		"Description": "Response 08 - The user selected 08 as their response"
+	},
+	"841":
+	{
+		"LongName":	"Response 09",
+		"Description": "Response 09 - The user selected 09 as their response"
+	},
+	"32768":
+	{
+		"LongName":	"not used",
+		"Description": "not used"
+	},
+	"33568":
+	{
+		"LongName":	"Question hidden",
+		"Description": "Question no longer displayed on screen"
+	},
+	"33569":
+	{
+		"LongName":	"not used",
+		"Description": "not used"
+	},
+	"33570":
+	{
+		"LongName":	"not used",
+		"Description": "not used"
+	},
+	"33571":
+	{
+		"LongName":	"not used",
+		"Description": "not used"
+	},
+	"33572":
+	{
+		"LongName":	"not used",
+		"Description": "not used"
+	},
+	"33573":
+	{
+		"LongName":	"not used",
+		"Description": "not used"
+	},
+	"33574":
+	{
+		"LongName":	"not used",
+		"Description": "not used"
+	},
+	"33575":
+	{
+		"LongName":	"not used",
+		"Description": "not used"
+	}
+}
