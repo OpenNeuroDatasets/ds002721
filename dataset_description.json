@@ -1,5 +1,5 @@
 {
-    "Name": "filmClips",
+    "Name": "An EEG dataset recorded during affective music listening",
     "BIDSVersion": "1.0.2",
     "Authors": [
         "Ian Daly",
