@@ -39,6 +39,7 @@ Rights-holders: University of Reading
 
 Source: The musical stimuli were taken from Eerola & Vuoskoski, “A comparison of the discrete and dimensional models of emotion in music”, Psychol. Music, 39:18-49, 2010 (doi: 10.1177/0305735610362821). 
 
+System: The data is prepared for use on Windows systems and no garanantee is made that the datasets can be opened correctly on other systems.
 
 3. TERMS OF USE
 -----------------
@@ -56,10 +57,6 @@ where: s_number is a random participant number from 1 to 31. For example: ‘sub
 The data is BIDS format and contains EEG and associated meta data. The sampling rate is 1 kHz and the EEG corresponding to a music clip is 20 s long (the duration of the clips).
 
 Each data folder contains the following data (please note that the number of runs varies between participants):
-
-EEG data in .tsv format.
-Event codes (JSON) and timings (tsv).
-EEG channel information.
 
 5. METHOD and PROCESSING
 --------------------------
